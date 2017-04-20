@@ -2,7 +2,9 @@
 Game like -system for HAMK
 
 !!! LOUD MUSIC WARNING !!!
+
 Final version: http://www.sukk4.net/games/hamkpaivitetty/index.html
+
 Older version with video: http://www.sukk4.net/games/hamkpeli2/index.html
 
 The game's purpose is to tell the player what kind of studying style is best suited for him/her in HAMK University of Applied Sciences. The game is played on a 42 inch touch screen TV and is intended to be available to play in different kind of events and fairs. The game's language is in Finnish.
