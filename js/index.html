@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<title>HAMK Peli</title>
+		<style>
+			canvas {  position: absolute;}
+			html { width: 100%; height:100%; padding: 0;}
+			body {width: 100%; height: 100%; margin: 0;background: #222; font: 14px Arial, Helvetica, sans-serif;}
+		</style>
+	</head>
+	<body onmousemove="getMouseCoords(event)"onmousedown="mouseDown1()"onmouseup="mouseUp1()"onclick="click1()">
+		<!--<canvas id="videoCanvas" width="1280px"height="720px" style="z-index: 0;"></canvas>-->
+		<canvas id="threeCanvas" style="z-index: 0;"></canvas>	
+		<video id="hamkVideo" autoplay style="display:none">
+			<source src="videos/hamkvideo1.webm" type="video/webm;">
+		</video> 
+		<script src="js/tween.min.js"></script>
+		<script src="js/three.min.js"></script>
+		<script src="js/wanhamain.js"></script>
+	</body>
+</html>
